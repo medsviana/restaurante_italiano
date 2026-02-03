@@ -2,8 +2,6 @@
 
 ![PHP](https://img.shields.io/badge/PHP-8.0%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Relational-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PDF Generation](https://img.shields.io/badge/PDF-Report-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-MVC_Pattern-orange?style=for-the-badge)
 
 ## 📖 Descripción del Proyecto
 
