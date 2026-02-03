@@ -1,4 +1,4 @@
-# 🍝 Trattoria Bella Italia - Sistema de Gestión Integral (ERP)
+# 🍝 Trattoria Bella Italia - Sistema de Gestión Empresarial (ERP)
 
 ![PHP](https://img.shields.io/badge/PHP-8.0%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Relational-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
